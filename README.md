@@ -1,0 +1,1 @@
+This is Capgemini Assignment 1 which covers CoreJava Lab book, JDBC Lab book, SQL Lab book.
